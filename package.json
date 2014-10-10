@@ -1,0 +1,10 @@
+{
+	"Name" :  "ejemplo node.js",
+	"Version" : "0.0.1",
+	"description": "editor de archivos en grupo con socket.io express y mongodb",
+	"autor":"Juan Pablo Rubiano<juanpablorubianosanabria@gmail.com>",
+	"scripts": {
+    	"start": "node index.js"
+  	}
+  
+}
